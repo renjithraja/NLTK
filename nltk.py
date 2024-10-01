@@ -6,6 +6,7 @@ from nltk.corpus import stopwords
 
 # Download necessary nltk resources
 nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('wordnet')
 nltk.download('stopwords')
 
